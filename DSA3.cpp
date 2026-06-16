@@ -14,3 +14,14 @@ while(i<n) {
     i = i+1;
 }
 }
+/*
+OUTPUT:
+9
+This number is prime for: 2
+This number is not prime for: 3
+This number is prime for: 4
+This number is prime for: 5
+This number is prime for: 6
+This number is prime for: 7
+This number is prime for: 8
+    */
