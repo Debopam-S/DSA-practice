@@ -15,8 +15,8 @@ int main() {
     cout<<"The answer is: "<<subtract<<endl;
 }
 
-*/
+/*
 OUTPUT:
 234
 The answer is: 15
-/*
+*/
