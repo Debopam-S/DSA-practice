@@ -4,4 +4,8 @@
 * DSA4.cpp ->> Half pyramid pattern 1
 * DSA5.cpp ->> Half pyramid pattern 2
 * DSA6.cpp ->> Half pyramid pattern 3
-* DSA7.cpp ->> Half pyramid pattern 4
+* DSA7.cpp ->> AAA
+               BBB
+               CCC
+* DSA8.cpp ->> Fibonacci series
+* DSA9.cpp ->> Subtract the product and the sum of digits of an integer
