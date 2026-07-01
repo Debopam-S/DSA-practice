@@ -9,4 +9,6 @@
 * DSA9.cpp ->> Subtract the product and the sum of digits of an integer
 * DSA10.cpp ->> Pattern solving 4
 * DSA11.cpp ->> Half pyramid pattern 4
+* DSA12.cpp ->> Half pyramid pattern 5
+* DSA13.cpp ->> Half pyramid pattern 6
 * 
