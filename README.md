@@ -11,4 +11,6 @@
 * DSA11.cpp ->> Half pyramid pattern 4
 * DSA12.cpp ->> Half pyramid pattern 5
 * DSA13.cpp ->> Half pyramid pattern 6
+* DSA14.cpp ->> Half pyramid pattern 7
+* DSA15.cpp ->> Half pyramid pattern 8
 * 
