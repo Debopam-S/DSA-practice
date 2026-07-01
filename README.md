@@ -7,6 +7,6 @@
 * DSA7.cpp ->> Pattern solving 3
 * DSA8.cpp ->> Fibonacci series
 * DSA9.cpp ->> Subtract the product and the sum of digits of an integer
-* DSA10.cpp ->> Pattern solving 3
+* DSA10.cpp ->> Pattern solving 4
 * DSA11.cpp ->> Half pyramid pattern 4
 * 
