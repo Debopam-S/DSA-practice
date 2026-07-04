@@ -14,3 +14,5 @@
 * DSA14.cpp ->> Half pyramid pattern 7
 * DSA15.cpp ->> Half pyramid pattern 8
 * DSA16.cpp ->> Pyramid pattern
+* DSA17.cpp ->> The compliment of an integer
+* DSA18.cpp ->> Reverse of an integer
