@@ -10,7 +10,7 @@ int main() {
     cout<<"The operation is: "<<endl;
     cin>>op;
     switch(op) {
-        case('+'): cout<<"The value os addition is: "<<(a+b)<<endl;
+        case('+'): cout<<"The value of addition is: "<<(a+b)<<endl;
                    break;
         case('-'): cout<<"The value of substraction is: "<<(a-b)<<endl;
                    break;
@@ -32,5 +32,5 @@ The value of b is:
 2
 The operation is: 
 +
-The value os addition is: 5
+The value of addition is: 5
 */
