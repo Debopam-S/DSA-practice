@@ -16,3 +16,6 @@
 * DSA16.cpp ->> Pyramid pattern
 * DSA17.cpp ->> The compliment of an integer
 * DSA18.cpp ->> Reverse of an integer
+* DSA19.cpp ->> Mini calculator using switch case
+* DSA20.cpp ->> power(a,b)
+* DSA21.cpp ->>
