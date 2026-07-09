@@ -19,3 +19,6 @@
 * DSA19.cpp ->> Mini calculator using switch case
 * DSA20.cpp ->> Function ->> Power(a,b)
 * DSA21.cpp ->> Function ->> Even Odd program
+* DSA22.cpp ->> Function ->> nCr program
+* DSA23.cpp ->> Function ->> Counting program
+* DSA24.cpp ->> Function ->> Prime no. program
