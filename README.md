@@ -18,4 +18,4 @@
 * DSA18.cpp ->> Reverse of an integer
 * DSA19.cpp ->> Mini calculator using switch case
 * DSA20.cpp ->> Function ->> Power(a,b)
-* DSA21.cpp ->> Function ->> Even Odd prpgram
+* DSA21.cpp ->> Function ->> Even Odd program
