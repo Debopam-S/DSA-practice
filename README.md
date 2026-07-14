@@ -22,3 +22,4 @@
 * DSA22.cpp ->> Function ->> nCr program
 * DSA23.cpp ->> Function ->> Counting program
 * DSA24.cpp ->> Function ->> Prime no. program
+* DSA25.cpp ->> Function ->> Pass by value
