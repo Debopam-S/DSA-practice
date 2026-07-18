@@ -25,3 +25,4 @@
 * DSA25.cpp ->> Function ->> Pass by value
 * DSA26.cpp ->> Maximum/Minimum in an array
 * DSA27.cpp ->> Linear search in an array
+* DSA28.cpp ->> Reverse an array
